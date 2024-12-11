@@ -13,6 +13,8 @@ const Home = () => {
         <ul>
           <li>Healthy eating</li>
           <li>Seasonal</li>
+
+
           <li>Bread and pastries</li>
         </ul>
       </div>
